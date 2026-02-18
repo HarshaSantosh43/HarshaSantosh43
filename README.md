@@ -21,14 +21,14 @@ I specialize in building enterprise-grade Android applications using:
 - Secure API Integration (JWT, SSL Pinning)
 - CI/CD Automation & Release Governance
 
-I have architected and delivered **20+ native Android apps** and **1 React Native app** across Telecom, Banking, Insurance, and Logistics domains.
+I have worked and delivered **20+ native Android apps** and **1 React Native app** across Telecom, Banking, Insurance, and Logistics domains.
 
 ---
 
 ## 🏗️ Architecture & Engineering Focus
 
 - Scalable multi-module Android architecture
-- Clean Architecture with MVVM/MVI patterns
+- Clean Architecture with MVVM patterns
 - Reactive UI with Compose + StateFlow
 - Offline-first systems with Room & sync strategies
 - BLE & hardware integrations
