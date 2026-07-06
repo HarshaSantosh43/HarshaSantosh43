@@ -5,6 +5,7 @@ Senior Android Engineer (Technology Lead) with 10+ years of experience architect
 📍 Pune, India  
 📧 harshasantosh43@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/santoshkatral/
+🔗 Portfolio: https://santoshgk-portfolio.lovable.app/
 
 ---
 
